@@ -1,0 +1,5 @@
+This folder contains the config files for the NEW dld (2020).
+
+If you want to use the Themis software with this detector, copy the content of this folder to the \SpecsLab2\bin folder (replace the corresponding files that are already there).
+
+Magnus

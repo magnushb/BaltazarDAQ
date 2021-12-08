@@ -1,0 +1,5 @@
+This folder is a copy of the \bin folder where the detector specific files are stored.
+
+By copying the content of this foler to \bin (and overwriting the corresponding files), the Themis software can be used with the old detector.
+
+Magnus
